@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[HTML](https://exemplo.com)**
 - **[CSS](https://exemplo.com)**
 
-> Veja o arquivo [LinkInBio-ByMaddu](https://maddusilva.github.io/todo-list/)
+> Veja o arquivo [LinkInBio-ByMaddu](https://maddusilva.github.io/link-in-bio/)
 
 **Utilitários**
 
